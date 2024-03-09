@@ -11,7 +11,7 @@ def countdown(t):
         time.sleep(1) 
         t -= 1
       
-    print('Your Time is END!!') 
+    print('Your Timer ENDS Here!!') 
   
   
 # input time in seconds 
